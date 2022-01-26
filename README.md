@@ -1,2 +1,2 @@
-# CottageRental
+# CottageHouse
 Cottage house rental 
